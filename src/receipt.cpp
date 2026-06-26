@@ -23,3 +23,6 @@ double calculateTotal(double subtotal, double tax, double tip) {
 //tax: $5.60
 //tip: $14.00
 //Total: $89.60
+
+// Logan B: Everything seems good. Great way to show work
+//for other inputs.
